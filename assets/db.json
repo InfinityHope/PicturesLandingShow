@@ -1,0 +1,53 @@
+{
+  "styles": [
+    {
+      "src": "assets/img/styles-5.jpg",
+      "title": "Пастелью",
+      "link": "#pastel"
+    },
+    {
+      "src": "assets/img/styles-6.jpg",
+      "title": "Поп-арт",
+      "link": "#popart"
+    },
+    {
+      "src": "assets/img/styles-7.png",
+      "title": "Фотомозаика",
+      "link": "#mozaika"
+    },
+    {
+      "src": "assets/img/styles-8.jpg",
+      "title": "Шарж",
+      "link": "#sharj"
+    }
+  ],
+  "questions": [],
+  "designer": [
+    {
+      "upload": {},
+      "price": "2500 ₽",
+      "size": "40x50",
+      "material": "Холст из волокна",
+      "options": "Экспресс-изготовление",
+      "id": 1
+    },
+    {
+      "upload": {},
+      "price": "1700 ₽",
+      "size": "50x70",
+      "material": "Льняной холст",
+      "options": "Доставка готовых работ",
+      "promocode": "gsd",
+      "id": 2
+    },
+    {
+      "upload": {},
+      "price": "2500 ₽",
+      "size": "40x50",
+      "material": "Холст из волокна",
+      "options": "Экспресс-изготовление",
+      "promocode": "gsd",
+      "id": 3
+    }
+  ]
+}
